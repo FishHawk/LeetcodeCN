@@ -3,6 +3,7 @@
     "C_Cpp.errorSquiggles": "Disabled",
     "editor.autoClosingBrackets": "never",
     "files.associations": {
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "string_view": "cpp"
     }
 }
